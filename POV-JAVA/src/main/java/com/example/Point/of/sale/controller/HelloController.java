@@ -21,6 +21,6 @@ public class HelloController {
 
     @GetMapping("/presentation")
     public String getPresentation(){
-        return "presentation2";
+        return "presentation2 ";
     }
 }
